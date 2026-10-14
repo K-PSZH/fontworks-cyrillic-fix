@@ -1,4 +1,5 @@
 # Fontworks Cyrillic Fix
+![Preview image](hero.png)
 
 **Fontworks Cyrillic Fix** is a Python utility that adjusts the side bearings of Cyrillic glyphs in CFF-based OpenType fonts (`.otf`) so that Cyrillic text sits more naturally alongside Latin text.
 
